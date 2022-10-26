@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sithu Kyaw ( @Sithu-gma )
 - 👀 I’m interested in Web Development ( HTML, CSS , JavaScript , PHP )
 - 🌱 I’m currently learning jS
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on senior developer and challenge job. 
 - 📫 How to reach me (sithu.gma@gmail.com ).
 
 <!---
